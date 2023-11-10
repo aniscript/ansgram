@@ -1,5 +1,6 @@
+import "./globals.css";
 const App = () => {
-  return <div>App</div>;
+  return <h1 className="txt-3xl font-bold underline">App</h1>;
 };
 
 export default App;
